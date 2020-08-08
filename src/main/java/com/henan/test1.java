@@ -7,5 +7,7 @@ package com.henan;
 public class test1 {
     public static void main(String[] args) {
         System.out.println("nihao");
+        System.out.println("nihao");
+        System.out.println("nihao");
     }
 }
